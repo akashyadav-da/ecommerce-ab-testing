@@ -1,4 +1,4 @@
-# A/B Testing Analysis: New vs. Old Landing Page
+# # E-commerce A/B Testing Analysis: New vs. Old Landing Page
 
 ## 📌 Project Overview
 
@@ -15,7 +15,11 @@ The primary goal was to determine whether the new landing page produced a statis
 
 ## 🎯 Business Problem
 
-A company introduced a new landing page and wants to determine whether it performs better than the existing page.
+An e-commerce company wants to improve its website's conversion performance. The company currently uses an existing landing page but has developed a new version that it believes may encourage more users to convert.
+
+To evaluate the effectiveness of the new design, users were assigned to two different groups and exposed to different versions of the landing page.
+
+The company now needs to determine whether the new landing page actually improves conversion performance.
 
 The key business question is:
 
